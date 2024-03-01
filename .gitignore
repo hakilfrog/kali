@@ -72,3 +72,4 @@ CMakeLists.txt.user*
 *.dll
 *.exe
 
+where_is_repo.txt
