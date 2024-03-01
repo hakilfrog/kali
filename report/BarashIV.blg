@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/CVE-2023-32700 patched)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: BarashIV.aux
+The style file: plain.bst
+Database file #1: books.bib
+Warning--entry type for "microsoft_cpp" isn't style-file defined
+--line 1 of file books.bib
+Warning--entry type for "Основы_математического_моделирования" isn't style-file defined
+--line 9 of file books.bib
+Warning--entry type for "latex_project_org" isn't style-file defined
+--line 16 of file books.bib
+Warning--to sort, need author or key in latex_project_org
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            505 strings with 4244 characters,
+and the built_in function-call counts, 554 in all, are:
+= -- 44
+> -- 15
+< -- 0
++ -- 7
+- -- 4
+* -- 17
+:= -- 85
+add.period$ -- 5
+call.type$ -- 3
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 21
+empty$ -- 68
+format.name$ -- 4
+if$ -- 122
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 0
+newline$ -- 14
+num.names$ -- 4
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 30
+stack$ -- 0
+substring$ -- 15
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 1
+while$ -- 4
+width$ -- 4
+write$ -- 21
+(There were 4 warnings)
